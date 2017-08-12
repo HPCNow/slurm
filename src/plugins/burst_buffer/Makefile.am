@@ -1,3 +1,3 @@
 # Makefile for burst buffer plugins
 
-SUBDIRS = cray generic
+SUBDIRS = cray generic beeond
