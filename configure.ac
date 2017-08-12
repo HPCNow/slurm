@@ -518,6 +518,7 @@ AC_CONFIG_FILES([Makefile
 		 src/plugins/burst_buffer/common/Makefile
 		 src/plugins/burst_buffer/cray/Makefile
 		 src/plugins/burst_buffer/generic/Makefile
+		 src/plugins/burst_buffer/beeond/Makefile
 		 src/plugins/checkpoint/Makefile
 		 src/plugins/checkpoint/blcr/Makefile
 		 src/plugins/checkpoint/blcr/cr_checkpoint.sh
